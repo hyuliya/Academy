@@ -1,2 +1,0 @@
-fnction Trol()
-{a,b,d,e}
